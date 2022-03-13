@@ -1,1 +1,1 @@
-# Amazon_review_scraping
+# Amazon_scraping
